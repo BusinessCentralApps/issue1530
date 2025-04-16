@@ -1,5 +1,6 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/freddydk/AL-Go@issue1530",
-  "templateSha": "29589f8d4c396cf2e7a5964378f7e0e3447c0704"
+  "templateSha": "29589f8d4c396cf2e7a5964378f7e0e3447c0704",
+  "debugMode": true
 }
